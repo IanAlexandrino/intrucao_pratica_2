@@ -5,3 +5,7 @@ práticos e teóricos em versionamento de código com Git e no
 repositório Github, capacitando-os a trabalhar de forma eficiente e
 colaborativa em projetos de desenvolvimento de software usando
 controle de versão.
+
+Novo recurso a ser adicionado ao projeto
+
+Lorem ipsum dolor sit amet. In odit necessitatibus eos suscipit saepe aut voluptate rerum sed deserunt odit eum dolore reiciendis quo totam aliquid! Qui voluptate internos a ipsam galisum qui Quis amet et quia quia in placeat veniam At officiis dolores! Et numquam reprehenderit qui sapiente obcaecati aut voluptatibus tempora non tempore ducimus. Sit ratione consectetur ut dolor corrupti sit modi sunt. Est quia nemo ut accusamus pariatur et quae tempore qui sint voluptatum et sunt voluptas?
